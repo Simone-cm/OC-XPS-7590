@@ -1,5 +1,12 @@
+OpenCore for Dell XPS 15 7590, tested on big sur everything working
+all credits go to @gorquan
+## Changes I've made:
+- itlwm kext included
+- Removed bcm stuff and added IntelBluetoothFirmware for AX1650.
+- Updated OpenCore to 0.6.3 for compatiblity with BigSur
+# Original README
 # OC-XPS-7590
-XPS 7590 with OpenCore
+XPS 15 7590 with OpenCore
 
 > English Readme is coming soon!
 
